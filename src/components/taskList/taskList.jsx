@@ -9,10 +9,7 @@ export const TaskList = () => {
                 </h2>
                 <ul className={styles.container}>
                     <TaskItem />
-                    <TaskItem />
-                    <TaskItem />
-                    <TaskItem />
-                    <TaskItem />
+                    
                 </ul>
         </div>
     )
